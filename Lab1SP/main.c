@@ -15,7 +15,7 @@ int main()
 	int i, k;
 
 	FILE* f;
-	f = fopen("Lab1SP.txt", "r");
+	f = fopen("test1.txt", "r");
 	if (f == NULL)
 	{
 		printf("The file is not found!");
